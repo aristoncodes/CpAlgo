@@ -974,5 +974,32 @@ a:hover {
 }
 
 
+.status {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.status.solved {
+  color: #4caf50;
+}
+
+.status.unsolved {
+  color: #f44336;
+}
+
+.mark-btn {
+  margin-top: 8px;
+  padding: 5px 10px;
+  background: #2f2f2f;
+  color: white;
+  border: 1px solid #555;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.mark-btn:hover {
+  background: #3f3f3f;
+}
+
 
 

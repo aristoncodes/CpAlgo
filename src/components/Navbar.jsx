@@ -31,8 +31,7 @@ const Navbar = () => {
   return (
     <nav className="nav">
       <div className="nav-left">
-        <img src={logo} alt="CPGrind" className="nav-logo" />
-        <h1 className="nav-title">CPGrind</h1>
+        <h1 className="nav-title">CPAlgo</h1>
       </div>
 
       <ul className="nav-list">
